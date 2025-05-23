@@ -228,7 +228,7 @@ def get_Azure_translate(word, lang_list=None):
     import requests, uuid, json
 
     # Add your key and endpoint
-    key = "BxMOx5QdFtSz5BBRRTo4mMDNChRIDw2Y5thlk00WZiYKpgXR6EY5JQQJ99AKAC3pKaRXJ3w3AAAbACOGkAGg"
+    key = "api_key"
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
