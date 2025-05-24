@@ -16,4 +16,5 @@
 
 ## semantic pivot-aware pre-training dataset
 - 根据预训练文档，构建共现频率图
-- 选取与较多点有共现频率的
+- 选取与较多token有较高共现频率的token 组成语义中枢集合
+- 选取含有高语义中枢集合的文档作为预训练语料
